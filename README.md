@@ -6,11 +6,11 @@ Fitness member registration system is a system that allows fitness center employ
  3.Setup the MySQL Database.__
  
 # Running-
- 1.you can run the server first.__
- 2.client can connect to server by using Ip address.__
+ 1.you can run the server first--
+ 2.client can connect to server by using Ip address.--
  3.client run the code.__
- 4.Enter the information details on GUI. (make sure connected to database).__
- 5.If the data has been inserted succesfully the message will prompt.__
- 6.You can check the data in MySql database table.__
+ 4.Enter the information details on GUI. (make sure connected to database).
+ 5.If the data has been inserted succesfully the message will prompt.
+ 6.You can check the data in MySql database table.
 
  
